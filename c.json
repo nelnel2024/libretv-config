@@ -91,5 +91,18 @@
       "filterable": 1
     }
   ],
-  "lives": []
+  "lives": [
+    {
+      "name": "香港频道 · iptv-org",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/streams/hk.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "香港频道 · Free-TV",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlists/playlist_hong_kong.m3u8",
+      "playerType": 1
+    }
+  ]
 }
